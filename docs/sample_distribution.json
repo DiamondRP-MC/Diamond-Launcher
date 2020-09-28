@@ -11,7 +11,7 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "Diamond-RP",
+            "id": "",
             "name": "Diamond RP",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
@@ -425,7 +425,7 @@
             ]
         },
         {
-            "id": "Diamond-Games",
+            "id": "",
             "name": "Diamond Games",
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
@@ -839,7 +839,7 @@
             ]
         },
         {
-            "id": "Diamond-RP",
+            "id": "",
             "name": "Diamond Games",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
@@ -1270,7 +1270,7 @@
             ]
         },
         {
-            "id": "Diamond-Games",
+            "id": "",
             "name": "Diamond Games",
             "description": "Tests for our version change to 1.13.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
